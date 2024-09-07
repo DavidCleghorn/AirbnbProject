@@ -4,7 +4,8 @@ The Tableau file can be found here:
 
 https://public.tableau.com/views/AirbnbDashboard_17256395363380/good?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-![airbnbproject](https://github.com/user-attachments/assets/200f0b05-feda-428d-a0ed-62582f7f276a)
+![AirbnbProject](https://github.com/user-attachments/assets/ccc7c62e-0442-4dd6-a3f5-0307cac6e37e)
+
 
 
 Data from https://insideairbnb.com/get-the-data/

@@ -2,9 +2,9 @@
 
 Data from https://insideairbnb.com/get-the-data/
 
-Info
+Info:
 
-Listings: 4912 Rows, 37 Columns
+Listings File: 4912 Rows, 37 Columns
 
-Reviews: 201901, 6 Columns
+Reviews File: 201901, 6 Columns
 

@@ -16,4 +16,4 @@ Listings File: 4912 Rows, 37 Columns
 
 Reviews File: 201901, 6 Columns
 
-Initial pass had me compare between the good and the bad. The previous version had a word wall filled with roaches, and other...odd...words that didn't come out as planned.
+Initial pass had me compare between the good and the bad. The previous version had a word wall filled with roaches, and other...odd...words that didn't come out as planned. There are some nasty houses out there in Dallas. Be warned.
